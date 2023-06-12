@@ -1,1 +1,10 @@
-
+streamlit
+pandas
+numpy
+sklearn
+seaborn
+matplotlib
+matplotlib.pyplot
+os
+pickle
+warnings
