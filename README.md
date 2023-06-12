@@ -14,3 +14,8 @@ Streamlit is used for deployment by importing libraries and loading a pre-traine
 
 # Important NOTE
 Research Paper will be Uploaded within few days, it will content all information about execution. 
+
+# How To Run The Project
+1. run the Crop Classification File by this command "python run FileName"
+2. Then check the if the model.pkl file is created or not if it is there then proceed futher
+3. Run Streamlit.py by this command "streamlit run streamlit.py"
